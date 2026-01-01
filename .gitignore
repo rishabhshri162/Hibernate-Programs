@@ -1,0 +1,52 @@
+# =========================
+# Eclipse / IDE files
+# =========================
+.classpath
+.project
+.settings/
+.metadata/
+
+# =========================
+# Compiled / Build files
+# =========================
+bin/
+target/
+out/
+
+# =========================
+# Logs & temp files
+# =========================
+*.log
+*.tmp
+*.swp
+*.bak
+
+# =========================
+# OS specific
+# =========================
+.DS_Store
+Thumbs.db
+
+# =========================
+# Maven / Gradle
+# =========================
+.mvn/
+!.mvn/wrapper/maven-wrapper.jar
+
+# =========================
+# Database / local data
+# =========================
+*.db
+*.sqlite
+
+# =========================
+# Ignore IDE configs
+# =========================
+.idea/
+.vscode/
+
+# =========================
+# Allow source & docs
+# =========================
+!src/
+!README.md

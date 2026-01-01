@@ -1,1 +1,1 @@
-# Hibernate-Programs
+# Hibernate-Practicals
